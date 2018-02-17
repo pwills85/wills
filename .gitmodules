@@ -7,3 +7,8 @@
 	path = OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 11.0
+
+[submodule "KonosCL/addons-konos/l10n_cl_hr"]
+	path = KonosCL/addons-konos/l10n_cl_hr
+	url = git@github.com:KonosCL/addons-konos.git
+	branch = 11.0
